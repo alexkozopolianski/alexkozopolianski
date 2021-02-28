@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
 ...
 
+# Skills
 <details>
 <summary>More Skills</summary>
 
