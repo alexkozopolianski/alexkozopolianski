@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Alex GitHub Banner](https://github.com/alexkozopolianski/react-portfolio/blob/master/src/components/banner1.png)]()
 
 # GitHub Stats
 <a href="https://github.com/alexkozopolianski">
