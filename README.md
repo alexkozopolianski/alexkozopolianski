@@ -15,8 +15,4 @@
 
 
 
-<details>
-<summary>More Skills</summary>
-
-</details>
 
